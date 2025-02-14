@@ -4,7 +4,7 @@ Thank you for visiting my portfolio website repository. This Flutter-based websi
 
 ## Live Demo
 
-You can explore the live version of the website [Click to see live demo](https://hamad-anwar.github.io/Portfolio/#/).
+You can explore the live version of the website [Click to see live demo](https://github.com/SyedMuhsin90/custom_website_design_flutter).
 
 ## Screenshots
 
@@ -73,7 +73,7 @@ I welcome contributions and suggestions from the community! If you come across a
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
 - **Email:** shahm4239@gmail.com
-- **LinkedIn:** [Hamad Anwar](https://www.linkedin.com/in/muhsin-ali-shah-93a75a130)
+- **LinkedIn:** [Muhsin Ali Shah](https://www.linkedin.com/in/muhsin-ali-shah-93a75a130)
 
 ## License
 
