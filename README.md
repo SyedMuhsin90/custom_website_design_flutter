@@ -74,7 +74,7 @@ I welcome contributions and suggestions from the community! If you come across a
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
 - **Email:** shahm4239@gmail.com
-- **LinkedIn:** [Muhsin Ali Shah](https://www.linkedin.com/in/muhsin-ali-shah-93a75a130)
+- **LinkedIn:** [Muhsin Ali Shah](https://www.linkedin.com/in/muhsin-shah90)
 
 ## License
 
@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Designed and developed with ❤️ by [Muhsin Ali Shah](https://www.linkedin.com/in/muhsin-ali-shah-93a75a130/).
+### Designed and developed with ❤️ by [Muhsin Ali Shah](https://www.linkedin.com/in/muhsin-shah90/).
